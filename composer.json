@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "name": "Mokiniai",
+    "description": "Mokiniai",
+    "psr-4": {
+      "MokiniaiApp\\": "app"
+    }
+  }
+}
